@@ -1,6 +1,6 @@
 class C{
     // dcexpect DartTestRule
-    void main() {
+    void verysecretname() {
         print('Hello, World!');
     }
 }
